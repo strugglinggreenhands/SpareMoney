@@ -28,5 +28,5 @@
   - 各角色了解自己在团队中的任务，和角色定位，并开展相关工作
   
 ## 记录会议"思维导图"
-​![twj]()
+​![twj](file:///Users/tangweijie/Desktop/第一次會議記錄%20byTWJ.png)
 by twj
