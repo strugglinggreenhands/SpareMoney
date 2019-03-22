@@ -20,5 +20,6 @@
 
 ## 技术调研
 *搭建MVC环境、使用SQL SERVER构造用户登陆页面*
- - [参考技术博客](https://www.cnblogs.com/yuangang/p/5472798.html)
+ - [参考技术博客--无私分享：从入门到精通ASP.NET MVC】从0开始，一起搭框架、做项目（1）搭建MVC环境 注册区域 ](https://www.cnblogs.com/yuangang/p/5472798.html)
    - （此人的系列博客也有与项目技术相关） 
+ - [参考技术博客 -- 使用MVC实现用户登录注册系统—银行管理系统](https://blog.csdn.net/aA518189/article/details/78858323)
