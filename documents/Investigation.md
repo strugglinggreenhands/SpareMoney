@@ -25,6 +25,19 @@
   - 涉及到资金管理方面的一定注意维护好数据之间的对应，就我目前所学的知识来看应该是要建立好何维护好数据库。
   - 使用满额度提现的方式，并且限定一天只能提现一次可以避免频繁的资金操作，便于管理。
   - 如何确定审核用户已经完成了任务是需要商讨的。
+  
+### 立应校园服务  
+ - by 16340184 AaronCyril
+ 
+![采用的方法](http://a3.qpic.cn/psb?/V12Yw7W81QAuHz/pEi9x*K*iCEyxb2hJ.o65anf5XD.Vuv6pMuyZqv0UXU!/m/dL4AAAAAAAAAnull&bo=mgKaAAAAAAADByA!&rf=photolist&t=5)
+
+![技术路线](http://a4.qpic.cn/psb?/V12Yw7W81QAuHz/7rjwHrmbXkTMsLnmvQ5V.rbpwsoKQglgQK*FmRfsXVs!/m/dDcBAAAAAAAAnull&bo=8wFXAQAAAAADB4Y!&rf=photolist&t=5)
+![](http://a4.qpic.cn/psb?/V12Yw7W81QAuHz/M*8eAKW.Xw3RSDub9yQOWssYWsbPlk3lBX.U1M7fBaw!/m/dL8AAAAAAAAAnull&bo=JAKEAQAAAAADB4E!&rf=photolist&t=5)
+
+*特点*
+
+兼具O2O与C2C众包模式，用户可以发出各种个性化需求任务，自定小费；还可以成为服务者，利用空余的时间参与抢单，赚取报酬；平台采取订单智能推送，高效抢单模式。同时，服务者也可以在平台发布自己的技能服务，供有需求的用户选择购买。通过众包模式实现共享服务。
+
 
 ## 技术调研
 
