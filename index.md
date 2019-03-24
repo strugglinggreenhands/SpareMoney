@@ -8,7 +8,7 @@
 
 
 ### 1、[About（项目概况与规划）](/documents/About.md)
-### 2、[Team profile（团队组建与分工）](/documents/Team Profile.md)
+### 2、[Team Profile（团队组建与分工）](/documents/Team\Profile.md)
 ### 3、[Investigation（项目前期调研/竞品分析）](/documnets/Investigation.md)
 ### 4、Vision（项目愿景）
 ### 5、Product Backlog （产品特性库）
