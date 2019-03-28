@@ -12,7 +12,7 @@
 
 ### 桔子兼职
  - by 16340251 Beatrix
-![Alt](/images/OrangeJob.png)
+![桔子兼职功能图](/images/OrangeJob.png)
 
 *特点*
 
