@@ -10,9 +10,9 @@
 ### 1、[About（项目概况与规划）](About.md)
 ### 2、[Team Profile（团队组建与分工）](Team_Profile.md)
 ### 3、[Investigation（项目前期调研/竞品分析）](Investigation.md)
-### 4、[Vision（项目愿景）]()
-### 5、[Product Backlog （产品特性库）]()
-### 6、[Requirement specification（需求规格说明书）]() 
+### 4、[Vision（项目愿景）](Vision.md)
+### 5、[Product Backlog （产品特性库）](Backlog.md)
+### 6、[Requirement specification（需求规格说明书）](Req_Specification.md) 
 ### 6.1 Usecase Diagram（用例图）
 - 6.2 Use Cases（用例+活动图）
 - 6.3 Domian Models（领域模型）
@@ -45,7 +45,7 @@
 ### X3 auditing-records
 
 ### X4 Tech/Work Report 
-- [16340251-title](https://jellicex.github.io/Orange_swsad.github.io/Project_Report.html)
+- [16340251-Beatrix的技术报告](https://jellicex.github.io/Orange_swsad.github.io/Project_Report.html)
 - [16340263-title]()
 - [15352307-title]()
 - [16340184-title]()
