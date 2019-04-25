@@ -12,7 +12,7 @@
 
 ### 桔子兼职
  - by 16340251 Beatrix
-![Alt](OrangeJob.png)
+![Alt](./Images/OrangeJob.png)
 
 *特点*
 
@@ -42,7 +42,7 @@
 ### 众人帮
  - by 16340263 Andy
  
- ![Alt](Andy_investigation.png)
+ ![Alt](./Images/Andy_investigation.png)
  
  *特点*
  
