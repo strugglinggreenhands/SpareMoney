@@ -16,5 +16,5 @@
 
 ### 沟通渠道建设
 - 即时通讯QQ群：866504998
-- [KanBan](https://github.com/strugglinggreenhands/SpareMoney/projects/1)
+- [KanBan](https://github.com/strugglinggreenhands/SpareMoney_Documents/projects)
 
