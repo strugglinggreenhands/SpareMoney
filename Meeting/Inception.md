@@ -28,5 +28,5 @@
   - 各角色了解自己在团队中的任务，和角色定位，并开展相关工作
   
 ## 记录会议"思维导图"
-​![twj](https://github.com/strugglinggreenhands/SpareMoney/blob/gh-pages/images/Inception_Xmind_by_TWJ.png)
+​![twj](../images/Inception_Xmind_by_TWJ.png)
 by twj

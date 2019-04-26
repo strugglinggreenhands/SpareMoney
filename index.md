@@ -7,12 +7,12 @@
 [项目文档目录](https://sysu-swsad.github.io/dashboard/)
 
 
-### 1、[About（项目概况与规划）](About.md)
-### 2、[Team Profile（团队组建与分工）](Team_Profile.md)
-### 3、[Investigation（项目前期调研/竞品分析）](Investigation.md)
-### 4、[Vision（项目愿景）](Vision.md)
-### 5、[Product Backlog （产品特性库）](Backlog.md)
-### 6、[Requirement specification（需求规格说明书）](Req_Specification.md) 
+### 1、[About（项目概况与规划）](./About.md)
+### 2、[Team Profile（团队组建与分工）](./Team_Profile.md)
+### 3、[Investigation（项目前期调研/竞品分析）](./Investigation.md)
+### 4、[Vision（项目愿景）](./Vision.md)
+### 5、[Product Backlog （产品特性库）](./Backlog.md)
+### 6、[Requirement specification（需求规格说明书）](./RequirementSpecification.md)
 ### 6.1 Usecase Diagram（用例图）
 - 6.2 Use Cases（用例+活动图）
 - 6.3 Domian Models（领域模型）
@@ -21,11 +21,11 @@
 - 6.6 Supplementary Requirements（补充需求）
 
 ### 7、Design（设计说明书） 
-- 7.1 UI design（界面设计）
-- 7.2 Database design（数据库设计）
-- 7.3 Interface API design（接口 API 设计）
-- 7.4 Architecture design（架构设计）
-- 7.5 Usecase design（用例设计）
+- 7.1 [UI design（界面设计）](./Design/UIDesign.md)
+- 7.2 [Database design（数据库设计）](./Design/DatabaseDesign.md)
+- 7.3 [Interface API design（接口 API 设计）](./Design/InterfaceAPIDesign.md)
+- 7.4 [Architecture design（架构设计）](./Design/ArchitectureDesign.md)
+- 7.5 [Usecase design（用例设计）](./Design/UsecaseDesign.md)
 
 ### 8、生产规范与指南 
 - 8.1 XX 代码规范
@@ -38,14 +38,14 @@
 - 9.2 XX短视频
 
 ### X1 meeting-records 会议记录 
-- [inception meeting (yy/mm/dd)](Inception.md)
+- [inception meeting (yy/mm/dd)]()
 
 ### X2 KANBAN
 
 ### X3 auditing-records
 
 ### X4 Tech/Work Report 
-- [16340251-Beatrix的技术报告](https://jellicex.github.io/Orange_swsad.github.io/Project_Report.html)
+- [16340251-title]()
 - [16340263-title]()
 - [15352307-title]()
 - [16340184-title]()
