@@ -1,0 +1,15 @@
+0. backend_ver1.0
+
+1.IDE:pycharm
+
+2.frame:django
+
+3.site_package catalog is shown in site-package.png
+
+4.general backend function is finished but some are lack of robustness
+  (1)login, register and logout are completed
+  (2)in task operation, some attr should be unique, but it's not checked in this version. 
+  (3)function[forget password and regain] is not constructed.
+  (4)infomation center[contains point, task remind, task progress] is not constructed very well.
+  
+5.simple frontend is available, we need frontend team to polish it
