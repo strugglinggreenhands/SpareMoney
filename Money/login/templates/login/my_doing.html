@@ -1,0 +1,23 @@
+{% extends 'login/base.html' %}
+{% load staticfiles %}
+{% block title %}任务中心{% endblock %}
+{% block css %}
+    <link rel="stylesheet" href="{% static 'css/login.css' %}">
+{% endblock %}
+
+
+{% block content %}
+    <h2>进行的任务</h2>
+    <form method="post">
+    {% csrf_token %}
+        <div class="trans_list">
+            {% for trans in key %}
+                {% for num,value in trans.items %}
+                    <p style="width:50%">{{ num }}:{{ value }}</p>
+                {% endfor %}
+                <button name="cancel" value="{{ trans.任务编号 }}">放弃任务</button>
+                <br><br>
+            {% endfor %}
+        </div>
+    </form>
+{% endblock %}

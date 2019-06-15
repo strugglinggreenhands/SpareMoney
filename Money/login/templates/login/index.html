@@ -1,0 +1,18 @@
+{% extends 'login/base.html' %}
+{% load staticfiles %}
+{% block title %}主页{% endblock %}
+{% block css %}
+    <link rel="stylesheet" href="{% static 'css/login.css' %}">
+{% endblock %}
+
+
+{% block content %}
+    {% if message %}
+        <div class="alert alert-warning">{{ message }}</div>
+    {% endif %}
+    {% if request.session.is_login %}
+    <h1>你好,{{ request.session.user_name }}！</h1>
+    {% else %}
+    <h1>主页</h1>
+    {% endif %}
+{% endblock %}

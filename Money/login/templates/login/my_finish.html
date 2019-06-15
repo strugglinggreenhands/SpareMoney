@@ -1,0 +1,19 @@
+{% extends 'login/base.html' %}
+{% load staticfiles %}
+{% block title %}任务中心{% endblock %}
+{% block css %}
+    <link rel="stylesheet" href="{% static 'css/login.css' %}">
+{% endblock %}
+
+
+{% block content %}
+    <h2>完成的任务</h2>
+    <div class="trans_list">
+        {% for trans in key %}
+            {% for num,value in trans.items %}
+                <p style="width:50%">{{ num }}:{{ value }}</p>
+            {% endfor %}
+            <br>
+        {% endfor %}
+    </div>
+{% endblock %}

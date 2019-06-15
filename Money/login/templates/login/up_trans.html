@@ -1,0 +1,50 @@
+{% extends 'login/base.html' %}
+{% load staticfiles %}
+{% block title %}发布任务{% endblock %}
+{% block css %}
+    <link rel="stylesheet" href="{% static 'css/login.css' %}">
+{% endblock %}
+
+
+{% block content %}
+    <div class="container">
+        <div class="col-md-4 col-md-offset-4">
+          <form class='form-up_trans' action="/up_trans/" method="post">
+
+
+              <div class="alert alert-warning">{{ message }}</div>
+
+
+              {% csrf_token %}
+              <h2 class="text-center">任务信息</h2>
+              <label>任务类别</label>
+              <p><input type="radio" name="type" value="survey">填写问卷 </p>
+              <p><input type="radio" name="type" value="morning">叫早服务 </p>
+              <p><input type="radio" name="type" value="takeout">带饭服务 </p>
+              <p><input type="radio" name="type" value="express">代领快递 </p>
+              <p><input type="radio" name="type" value="drug">代买药品 </p>
+
+              <div class="form-group">
+                  {{ up_trans_form.bonus.label_tag }}
+                  {{ up_trans_form.bonus}}
+              </div>
+              <div class="form-group">
+                  {{ up_trans_form.phone.label_tag }}
+                  {{ up_trans_form.phone }}
+              </div>
+              <div class="form-group">
+                  {{ up_trans_form.detail.label_tag }}
+                  {{ up_trans_form.detail }}
+              </div>
+              <div class="form-group">
+                  {{ up_trans_form.d_time.label_tag }}
+                  {{ up_trans_form.d_time }}
+              </div>
+
+              <button type="reset" class="btn btn-default pull-left">重置</button>
+              <button type="submit" class="btn btn-primary pull-right">提交</button>
+
+          </form>
+        </div>
+    </div> <!-- /container -->
+{% endblock %}

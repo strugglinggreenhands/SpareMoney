@@ -1,0 +1,26 @@
+{% extends 'login/base.html' %}
+{% load staticfiles %}
+{% block title %}任务中心{% endblock %}
+{% block css %}
+    <link rel="stylesheet" href="{% static 'css/login.css' %}">
+{% endblock %}
+
+{% block content %}
+    <h1>任务列表</h1>
+    <form method="post">
+    {% csrf_token %}
+        <div class="trans_list">
+            {% for trans in key %}
+                {% for num,value in trans.items %}
+                    <p style="width:50%">{{ num }}:{{ value }}</p>
+                {% endfor %}
+                {% if trans.接受状态 == False %}
+                    <button name="accept" value="{{ trans.任务编号 }}">接受任务</button>
+                {% else %}
+                    <button disabled="disabled" style="background: #9acfea;">接受任务</button>
+                {% endif %}
+                <br><br>
+            {% endfor %}
+        </div>
+    </form>
+{% endblock %}

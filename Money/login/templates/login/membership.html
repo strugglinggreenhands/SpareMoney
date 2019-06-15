@@ -1,0 +1,20 @@
+{% extends 'login/base.html' %}
+{% load staticfiles %}
+{% block title %}个人中心{% endblock %}
+{% block css %}
+    <link rel="stylesheet" href="{% static 'css/login.css' %}">
+{% endblock %}
+
+
+{% block content %}
+    <h1>我的信息</h1>
+    {% if message %}
+        <div class="alert alert-warning">{{ message }}</div>
+    {% endif %}
+    <li>用户名：{{ request.session.user_name }}</li>
+    <li>密码：{{ request.session.password }}</li>
+    <li>邮箱：{{ request.session.email }}</li>
+    <li>性别：{{ request.session.sex }}</li>
+    <li>积分：{{ request.session.point }}</li>
+    <button type="submit" class="btn btn-default"><a href="/modify_info/">修改密码</a> </button>
+{% endblock %}
