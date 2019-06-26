@@ -12,19 +12,22 @@ Use Case 1 任务者接受任务
 
 用例图：
 ![](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E9%9D%9E%E6%AD%A3%E5%BC%8F%E7%94%A8%E4%BE%8B1.png?raw=true)
+
 活动图：
 ![](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E6%B4%BB%E5%8A%A81.png?raw=true)
 
 Use case 2 发布者发布任务
 
 主成功场景：
-发布者发布任务后，任务者接受任务，发布者同意，任务开始
+发布者发布任务后，任务者接受任务，发布者同意，任务开始。
 
 交替场景：
-发布者发布任务后，没有任务者接受任务，任务超过时间期限
-发布者发布任务后，自行取消任务
-发布者发布任务后，任务者接受任务，发布者不同意，任务重新回到任务中心
+发布者发布任务后，没有任务者接受任务，任务超过时间期限；
+发布者发布任务后，自行取消任务；
+发布者发布任务后，任务者接受任务，发布者不同意，任务重新回到任务中心。
+
 用例图
 ![](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E9%9D%9E%E6%AD%A3%E5%BC%8F%E7%94%A8%E4%BE%8B2.png?raw=true)
+
 活动图
 ![](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E6%B4%BB%E5%8A%A82.png?raw=true)
