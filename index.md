@@ -16,8 +16,8 @@
 ### 6.1 Usecase Diagram（用例图）
 - 6.2 Use Cases（用例+活动图）
 - 6.3 Domian Models（领域模型）
-- 6.4 State Models（状态模型）(./State Model.md)
-- 6.5 System Sequence Diagrams（功能模型）(./System Sequence Diagram.md)
+- 6.4 State Models（状态模型）(./Usecase Diagram/State Model.md)
+- 6.5 System Sequence Diagrams（功能模型）(./Usecase Diagram/System Sequence Diagram.md)
 - 6.6 Supplementary Requirements（补充需求）
 
 ### 7、Design（设计说明书） 
