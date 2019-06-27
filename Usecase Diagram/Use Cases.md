@@ -11,10 +11,10 @@ Use Case 1 用户注册登录
 用户看不清验证图。
 
 用例图：
-![]()
+![](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E9%9D%9E%E6%AD%A3%E5%BC%8F%E7%94%A8%E4%BE%8B4.png?raw=true)
 
 活动图：
-![]()
+![](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E6%B4%BB%E5%8A%A84.png?raw=true)
 
 
 Use Case 2 任务者接受任务
@@ -59,7 +59,7 @@ Use case 4 任务者提交任务
 其他任务者先于提交任务并确认。
 
 用例图
-![]()
+![](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E9%9D%9E%E6%AD%A3%E5%BC%8F%E7%94%A8%E4%BE%8B3.png?raw=true)
 
 活动图
-![]()
+![](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E6%B4%BB%E5%8A%A83.png?raw=true)
