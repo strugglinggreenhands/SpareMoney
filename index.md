@@ -21,9 +21,8 @@
 ### 7、Design（设计说明书） 
 - 7.1 [UI design（界面设计）](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/Design/UIdesign.md)
 - 7.2 [Database design（数据库设计）](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/Design/DatabaseDesign.md)
-- 7.3 [Interface API design（接口 API 设计）](./Design/InterfaceAPIDesign.md)
-- 7.4 [Architecture design（架构设计）](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/Design/ArchitectureDesign.md)
-- 7.5 [Usecase design（用例设计）](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/Design/UsecaseDesign.md)
+- 7.3 [Architecture design（架构设计）](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/Design/ArchitectureDesign.md)
+- 7.4 [Usecase design（用例设计）](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/Design/UsecaseDesign.md)
 
 ### 8、生产规范与指南 
 - 8.1 XX 代码规范
