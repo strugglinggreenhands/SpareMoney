@@ -83,10 +83,10 @@
 - 设计思路
   - 在本次实验中，我们从业务和功能出发，应用了客户端-服务端的传统相应模式，部署web页面。
 - 系统总体逻辑结构图
-  ？？？？
+  - ![用例图](../Usecase\ Diagram/Usecase_diagram.png)
+  
 - 系统部署结构图
-  - 拓扑图如下
-  ![topo](../images/topo.png)
+  - ![topo](../images/topo.png)
 ### 主要界面流程描述
 - 登陆注册功能界面流程
 
