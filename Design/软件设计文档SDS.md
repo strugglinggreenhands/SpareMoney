@@ -18,11 +18,10 @@
   - [模块列表](###模块列表)
 - [数据结构（数据库）](##数据结构)
 - [接口规范](##接口规范)
-  - [<模块1 xxxxAPI>](###<模块1 xxxxAPI>)
-	- 接口1——
-	- 接口2——
-  - [<模块2 xxxxAPI>](###<模块2 xxxxAPI>)
-  - [<模块3 xxxxAPI>](###[<模块3 xxxxAPI>](###))
+  - [<模块1 注册登录API>](###<模块1注册登录API>)
+  - [<模块2 任务中心API>](###<模块2任务中心API>)
+  - [<模块3 个人中心API>](###<模块3个人中心API>)
+  - [<模块4 数据库API>](###<模块4数据库API>)
 - [模块设计](##模块设计)
   - [模块设计描述](###模块设计描述)
   - [模块界面描述](###模块界面描述)
@@ -64,7 +63,7 @@
 |确定后端模块|第11周|1|
 |实现API|第12周|3|
 |实现API|第13周|3|
-|检测API正确性鲁棒性|第14周|3|
+|检测API正确性|第14周|3|
 
 ### 开发环境和工具
 
@@ -95,14 +94,16 @@
 
 ## 数据结构
 - 数据库关系列表
+
 |关系（表名）|作用|
 |:--:|:--:|
 |用户信息表(login_user)|存储用户的用户名、密码、邮箱和性别，记录分数|
 |任务表(Transaction)|记录任务的详细信息(编号,类型,奖励,发布者,联系电话,详情,发起时间和截止时间,接受情况和完成情况|  
 
-[<附SQL数据库结构定义文档>]
+[<附SQL数据库结构定义文档>](https://github.com/strugglinggreenhands/backend/blob/master/login/models.py)
+
 ## 接口规范
-### <模块1 注册登录API>
+### <模块1注册登录API>
 - 模块共功能简要介绍
   - 
 - 接口1——login(request)
@@ -110,7 +111,7 @@
 - 接口2——register(request)
   - 接受前端发回的请求request，若请求类型为POST，接受并获取前端的表单(form)内容，进行注册操作。输入的数据均合法时，在数据库表（login_user）中加入新的用户并记录该用户的注册信息，之后跳转到登录(login)界面。
 
-### <模块2 任务中心API>
+### <模块2任务中心API>
 - 接口1——up_trans(request)
   - 接受前端发回的请求request，若请求类型为POST，接受并获取前端的表单(form)内容，进行任务发布操作。输入的数据均合法时，在数据库表(login_transaction)中加入新的任务并记录任务和发布者的详细信息，之后跳转到主界面。
 - 接口2——find_trans(request)
@@ -126,7 +127,7 @@
 - 接口7——delete_trans(request)
   - 接受前端发回的请求request，若请求类型为GET，显示任务信息；若请求类型为POST，在数据库表(login_transaction)中查询到选中的任务，将该行删除，之后返回到任务中心界面。  
 
-### <模块3 个人中心API>
+### <模块3个人中心API>
 - 接口1——membership(request)
   - 接受前端发回的请求request，若请求类型为GET，显示个人信息。
 - 接口2——modify_info(request)
@@ -134,15 +135,12 @@
 - 接口3——logout(request)
   - 接受前端的请求request，登出用户。
 
-### <数据库API>
+### <模块4数据库API>
 - 定义数据库存储过程接口
 每个数据模型都继承django.db.models.Model。他们的父类Model包含了所有必要的和数据库交互的方法，并提供了一个简介漂亮的数据库定义语法。每个模型相当于单个的数据库表（这种情况例外的是多对多的关系，多对多关系的时候会多生成一张关系表），每个属性也是这个表中的一个字段。属性名就是字段名，它的类型（例CharField）相当于数据库的字段类型（例如varchar）。
 - 接口1——User(models.Model)
 - 接口2——Transaction(models.Model)
 
-
-  
-## 模块设计
 
 ## 附录
 ### 第三方组件
@@ -152,11 +150,6 @@
 |jQuery|3.2.1|优秀的JavaScript库，简化JavaScript编程。|
 
 ### 参考资料
-- bootstrap官方中文文档https://v3.bootcss.com
-- django官方文档https://docs.djangoproject.com
+- [bootstrap官方中文文档](https://v3.bootcss.com)
+- [django官方文档](https://docs.djangoproject.com)
 
-### 附加文档
-|文档名|所属文件名|描述|
-|:--:|:--:|:--:|
-|||数据库定义脚本|
-||||
