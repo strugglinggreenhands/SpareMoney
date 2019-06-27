@@ -4,7 +4,7 @@
 
 [项目简介与要求](https://sysu-swsad.github.io/swad-guide/00-project-intro)
 
-[项目文档目录](https://sysu-swsad.github.io/dashboard/)
+[项目文档目录](https://sysu-swsad.github.io/dashboard/)(参考)
 
 
 ### 1、[About（项目概况与规划）](./About.md)
