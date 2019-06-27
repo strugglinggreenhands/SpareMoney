@@ -39,9 +39,12 @@
 ### X1 meeting-records 会议记录 
 - [inception meeting (yy/mm/dd)](https://github.com/strugglinggreenhands/SpareMoney_Documents/tree/gh-pages/Meeting)
 
-### X2 KANBAN
+### X2 [KANBAN](https://github.com/strugglinggreenhands/SpareMoney_Documents/projects)
 
 ### X3 auditing-records
+[前端](https://github.com/strugglinggreenhands/Front/graphs/contributors)  
+[后端](https://github.com/strugglinggreenhands/backend/graphs/contributors)  
+[项目文档](https://github.com/strugglinggreenhands/SpareMoney_Documents/graphs/contributors)
 
 ### X4 Tech/Work Report 
 - [16340251-title]()
