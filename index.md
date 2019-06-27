@@ -13,12 +13,11 @@
 ### 4、[Vision（项目愿景）](./Vision.md)
 ### 5、[Product Backlog （产品特性库）](./Backlog.md)
 ### 6、[Requirement specification（需求规格说明书）](./RequirementSpecification.md)
-### 6.1 Usecase Diagram（用例图）
-- 6.2 [Use Cases（用例+活动图）](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/Usecase%20Diagram/Use%20Cases.md)
-- 6.3 [Domian Models（领域模型）](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/Usecase%20Diagram/Domain%20Model.md)
-- 6.4 [State Models（状态模型）](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/Usecase%20Diagram/State%20Model.md)
-- 6.5 [System Sequence Diagrams（功能模型）](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/Usecase%20Diagram/System%20Sequence%20Diagram.md)
-
+### 6.1 [Usecase Diagram（用例图）](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/Usecase%20Diagram/)
+- 6.2 Use Cases（用例+活动图）
+- 6.3 Domian Models（领域模型）
+- 6.4 State Models（状态模型）
+- 6.5 System Sequence Diagrams（功能模型）
 ### 7、Design（设计说明书） 
 - 7.1 [UI design（界面设计）](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/Design/UIdesign.md)
 - 7.2 [Database design（数据库设计）](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/Design/DatabaseDesign.md)
