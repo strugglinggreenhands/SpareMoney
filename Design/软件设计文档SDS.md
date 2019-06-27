@@ -16,6 +16,7 @@
     - 发布任务功能界面流程
     - 接受任务功能界面流程
   - [模块列表](###模块列表)
+  - [后端文件结构](###后端文件结构)
 - [数据结构（数据库）](##数据结构)
 - [接口规范](##接口规范)
   - [<注册登录API>](###<注册登录API>)
@@ -110,6 +111,37 @@
 - views
   - 后端实现的功能与接口
 
+### 后端文件结构
+
+```python
+└─backend
+    ├─.idea
+    │  └─libraries
+    ├─img                       # readme所需图片
+    ├─login
+    │  ├─migrations             # 配置文件
+    │  ├─templates
+    │  │  └─login               # 前端html代码
+    │  ├─__pycache__            # 配置文件
+    │  ├─admin.py               # 注册models
+    │  ├─apps.py                # 注册项目app
+    │  ├─forms.py               # 登录、注册、任务表单
+    │  ├─models.py              # 数据库中表的结构
+    │  ├─views.py               # 接口与功能实现
+    │  └─tests.py               # 测试用例
+    ├─mysite_login
+    │  ├─settings.py            # 项目设置，如数据库连接，host地址等
+    │  ├─urls.py                # 路由地址
+    │  └─__pycache__            # 配置文件
+    ├─static
+    │  ├─bootstrap-3.3.7-dist   # 第三方css与js包
+    │  ├─css                    # css文件
+    │  └─js                     # js文件
+    ├─venv                      # 项目环境所需包等
+    ├─manage.py                 # 管理项目脚本
+    └─readme.md                 # 安装使用说明
+
+```
 
 ## 数据结构
 - 数据库关系列表
