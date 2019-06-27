@@ -18,7 +18,6 @@
 - 6.3 [Domian Models（领域模型）](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/Usecase%20Diagram/Domain%20Model.md)
 - 6.4 [State Models（状态模型）](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/Usecase%20Diagram/State%20Model.md)
 - 6.5 [System Sequence Diagrams（功能模型）](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/Usecase%20Diagram/System%20Sequence%20Diagram.md)
-- 6.6 Supplementary Requirements（补充需求）
 
 ### 7、Design（设计说明书） 
 - 7.1 [UI design（界面设计）](./Design/UIDesign.md)
