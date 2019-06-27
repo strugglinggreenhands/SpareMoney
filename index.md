@@ -34,7 +34,7 @@
 - 9.1 XX短视频
 - 9.2 XX短视频
 
-[文件目录规范](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/%E7%B3%BB%E7%BB%9F%E7%9B%AE%E5%BD%95%E8%A7%84%E8%8C%83.md)
+[系统目录规范](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/%E7%B3%BB%E7%BB%9F%E7%9B%AE%E5%BD%95%E8%A7%84%E8%8C%83.md)
 
 ### X1 meeting-records 会议记录 
 - [inception meeting (yy/mm/dd)](https://github.com/strugglinggreenhands/SpareMoney_Documents/tree/gh-pages/Meeting)
