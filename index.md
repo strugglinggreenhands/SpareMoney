@@ -13,7 +13,7 @@
 ### 4、[Vision（项目愿景）](./Vision.md)
 ### 5、[Product Backlog （产品特性库）](./Backlog.md)
 ### 6、[Requirement specification（需求规格说明书）](./RequirementSpecification.md)
-### 6.1 [Usecase Diagram（用例图）](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/Usecase%20Diagram/)
+### 6.1 [Diagram](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/Usecase%20Diagram/)
 - 6.2 Use Cases（用例+活动图）
 - 6.3 Domian Models（领域模型）
 - 6.4 State Models（状态模型）
