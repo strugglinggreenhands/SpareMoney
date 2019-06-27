@@ -55,3 +55,10 @@ Use case 4 任务者提交任务
 ![用例图](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E9%9D%9E%E6%AD%A3%E5%BC%8F%E7%94%A8%E4%BE%8B3.png?raw=true)
 
 ![活动图](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E6%B4%BB%E5%8A%A83.png?raw=true)
+
+# 简述用例
+
+Use case 5.1 修改密码
+Actor：用户
+Type：Primary
+Description：用户进入页面，切换到个人中心的页面，选择修改密码，并输入新密码并提交。
