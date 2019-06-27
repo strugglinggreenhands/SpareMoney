@@ -59,7 +59,7 @@
 |确定后端模块|第11周|1|
 |实现API|第12周|3|
 |实现API|第13周|3|
-|检测API正确性鲁棒性|第14周|3|
+|检测API正确性|第14周|3|
 
 ### 开发环境和工具
 
@@ -80,23 +80,32 @@
 - 设计思路
   - 在本次实验中，我们从业务和功能出发，应用了客户端-服务端的传统相应模式，部署web页面。
 - 系统总体逻辑结构图
-  - ![用例图](../Usecase\ Diagram/Usecase_diagram.png)
+  - ![用例图](../images/Usecase_diagram.png)
   
 - 系统部署结构图
   - ![topo](../images/topo.png)
+
 ### 主要界面流程描述
 
-登陆注册功能界面流程
+- 登陆注册功能界面流程
 
 <table><tr><td ><center><img src="https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E9%9D%9E%E6%AD%A3%E5%BC%8F%E7%94%A8%E4%BE%8B4.png?raw=true" > 用例图 </center></td><td ><center><img src="https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E6%B4%BB%E5%8A%A84.png?raw=true" > 活动图 </center></td></tr></table>
 
--发布任务功能界面流程
+- 发布任务功能界面流程
 
 <table><tr><td ><center><img src="https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E9%9D%9E%E6%AD%A3%E5%BC%8F%E7%94%A8%E4%BE%8B2.png?raw=true" > 用例图 </center></td><td ><center><img src="https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E6%B4%BB%E5%8A%A82.png?raw=true" > 活动图 </center></td></tr></table>
 
--接受任务功能界面流程
+- 接受任务功能界面流程
 
 <table><tr><td ><center><img src="https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E9%9D%9E%E6%AD%A3%E5%BC%8F%E7%94%A8%E4%BE%8B1.png?raw=true" > 用例图 </center></td><td ><center><img src="https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E6%B4%BB%E5%8A%A81.png?raw=true" > 活动图 </center></td></tr></table>
+
+### 模块列表
+
+|模块|位置|所在行|
+|:--:|:--:|:--:|
+|登录注册模块|backend/login/views.py|19-93|
+|个人中心模块|backend/login/views.py|100-118|
+|任务功能模块|backend/login/views.py|129-408|
 
 
 ## 数据结构
