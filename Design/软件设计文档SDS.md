@@ -86,7 +86,7 @@
   ？？？？
 - 系统部署结构图
   - 拓扑图如下
-  [!topo](../images/topo.png)
+  ![topo](../images/topo.png)
 ### 主要界面流程描述
 - 登陆注册功能界面流程
 
