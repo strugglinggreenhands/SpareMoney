@@ -15,7 +15,7 @@
 ### 6、[Requirement specification（需求规格说明书）](./RequirementSpecification.md)
 ### 6.1 [Diagram](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/Usecase%20Diagram/)
 - 6.2 [Use Cases（用例+活动图）](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/UseCases.md)
-- 6.3 [Domian Models（领域模型）](./DomianModels.md)
+- 6.3 [Domian Models（领域模型）](./image/DomianModels.md)
 - 6.4 [State Models（状态模型）](./StateModels.md)
 - 6.5 [System Sequence Diagrams（功能模型）](./SystemSequenceDiagrams.md)
 ### 7、Design（设计说明书） 
