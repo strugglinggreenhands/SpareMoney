@@ -31,3 +31,18 @@ Use case 2 发布者发布任务
 
 活动图
 ![](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E6%B4%BB%E5%8A%A82.png?raw=true)
+
+Use case 3 任务者提交任务
+
+主成功场景：
+任务者完成任务后，发布者确认任务完成，系统发放积分和酬劳。
+
+交替场景：
+发布者对任务完成的情况不满意，积分和酬劳不予发放；
+其他任务者先于提交任务并确认。
+
+用例图
+![]()
+
+活动图
+![]()
