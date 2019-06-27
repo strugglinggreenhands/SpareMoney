@@ -1,6 +1,23 @@
 # 非正式用例
 
-Use Case 1 任务者接受任务
+Use Case 1 用户注册登录
+
+主成功场景：
+用户输入账号及其密码，通过验证后，登录。
+
+交替场景：
+用户尚未注册；
+用户忘记密码；
+用户看不清验证图。
+
+用例图：
+![]()
+
+活动图：
+![]()
+
+
+Use Case 2 任务者接受任务
 
 主成功场景：
 任务者接受任务，发布者确认后同意请求，任务者成功在在我的任务界面获取任务信息。
@@ -16,7 +33,7 @@ Use Case 1 任务者接受任务
 活动图：
 ![](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E6%B4%BB%E5%8A%A81.png?raw=true)
 
-Use case 2 发布者发布任务
+Use case 3 发布者发布任务
 
 主成功场景：
 发布者发布任务后，任务者接受任务，发布者同意，任务开始。
@@ -32,7 +49,7 @@ Use case 2 发布者发布任务
 活动图
 ![](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E6%B4%BB%E5%8A%A82.png?raw=true)
 
-Use case 3 任务者提交任务
+Use case 4 任务者提交任务
 
 主成功场景：
 任务者完成任务后，发布者确认任务完成，系统发放积分和酬劳。
