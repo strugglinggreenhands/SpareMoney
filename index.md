@@ -55,7 +55,8 @@
 - [16340223-title]()
 
 ### X5 Final Report 
-[文件目录规范]()
+[文件目录规范](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/%E7%B3%BB%E7%BB%9F%E7%9B%AE%E5%BD%95%E8%A7%84%E8%8C%83.md)
+
 下面这两行到时候去掉：
  学号-title
  小组分工与贡献率说明
