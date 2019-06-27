@@ -37,7 +37,7 @@
 - 9.2 XX短视频
 
 ### X1 meeting-records 会议记录 
-- [inception meeting (yy/mm/dd)]()
+- [inception meeting (yy/mm/dd)](https://github.com/strugglinggreenhands/SpareMoney_Documents/tree/gh-pages/Meeting)
 
 ### X2 KANBAN
 
