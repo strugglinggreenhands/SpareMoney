@@ -89,21 +89,30 @@
 ### 主要界面流程描述
 - 登陆注册功能界面流程
 
-![用例图](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E9%9D%9E%E6%AD%A3%E5%BC%8F%E7%94%A8%E4%BE%8B4.png?raw=true)
-
-![活动图](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E6%B4%BB%E5%8A%A84.png?raw=true)
+<table>
+    <tr>
+        <td ><center><img src="https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E9%9D%9E%E6%AD%A3%E5%BC%8F%E7%94%A8%E4%BE%8B4.png?raw=true" > 用例图 </center></td>
+        <td ><center><img src="https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E6%B4%BB%E5%8A%A84.png?raw=true" > 活动图 </center></td>
+    </tr>
+</table>
 
 - 发布任务功能界面流程
 
-![用例图](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E9%9D%9E%E6%AD%A3%E5%BC%8F%E7%94%A8%E4%BE%8B2.png?raw=true)
-
-![活动图](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E6%B4%BB%E5%8A%A82.png?raw=true)
+<table>
+    <tr>
+        <td ><center><img src="https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E9%9D%9E%E6%AD%A3%E5%BC%8F%E7%94%A8%E4%BE%8B2.png?raw=true" > 用例图 </center></td>
+        <td ><center><img src="https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E6%B4%BB%E5%8A%A82.png?raw=true" > 活动图 </center></td>
+    </tr>
+</table>
 
 - 接受任务功能界面流程
 
-![用例图](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E9%9D%9E%E6%AD%A3%E5%BC%8F%E7%94%A8%E4%BE%8B1.png?raw=true)
-
-![活动图](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E6%B4%BB%E5%8A%A81.png?raw=true)
+<table>
+    <tr>
+        <td ><center><img src="https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E9%9D%9E%E6%AD%A3%E5%BC%8F%E7%94%A8%E4%BE%8B1.png?raw=true" > 用例图 </center></td>
+        <td ><center><img src="https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E6%B4%BB%E5%8A%A81.png?raw=true" > 活动图 </center></td>
+    </tr>
+</table>
 
 ## 数据结构
 - 数据库关系列表
