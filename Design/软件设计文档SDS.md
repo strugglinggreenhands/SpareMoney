@@ -101,11 +101,14 @@
 
 ### 模块列表
 
-|模块|位置|所在行|
-|:--:|:--:|:--:|
-|登录注册模块|backend/login/views.py|19-93|
-|个人中心模块|backend/login/views.py|100-118|
-|任务功能模块|backend/login/views.py|129-408|
+- models
+  数据库结构
+
+- forms
+  登录注册表单与发布任务表单
+
+- views
+  后端实现的功能与接口
 
 
 ## 数据结构
