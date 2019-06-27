@@ -10,11 +10,9 @@ Use Case 1 用户注册登录
 用户忘记密码；
 用户看不清验证图。
 
-用例图：
-![](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E9%9D%9E%E6%AD%A3%E5%BC%8F%E7%94%A8%E4%BE%8B4.png?raw=true)
+![用例图](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E9%9D%9E%E6%AD%A3%E5%BC%8F%E7%94%A8%E4%BE%8B4.png?raw=true)
 
-活动图：
-![](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E6%B4%BB%E5%8A%A84.png?raw=true)
+![活动图](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E6%B4%BB%E5%8A%A84.png?raw=true)
 
 
 Use Case 2 任务者接受任务
@@ -27,11 +25,9 @@ Use Case 2 任务者接受任务
 发布者审核后不同意任务者接受任务，任务取消；
 任务者在任务期限内未完成任务，任务失败，扣除积分。
 
-用例图：
-![](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E9%9D%9E%E6%AD%A3%E5%BC%8F%E7%94%A8%E4%BE%8B1.png?raw=true)
+![用例图](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E9%9D%9E%E6%AD%A3%E5%BC%8F%E7%94%A8%E4%BE%8B1.png?raw=true)
 
-活动图：
-![](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E6%B4%BB%E5%8A%A81.png?raw=true)
+![活动图](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E6%B4%BB%E5%8A%A81.png?raw=true)
 
 Use case 3 发布者发布任务
 
@@ -43,11 +39,9 @@ Use case 3 发布者发布任务
 发布者发布任务后，自行取消任务；
 发布者发布任务后，任务者接受任务，发布者不同意，任务重新回到任务中心。
 
-用例图
-![](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E9%9D%9E%E6%AD%A3%E5%BC%8F%E7%94%A8%E4%BE%8B2.png?raw=true)
+![用例图](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E9%9D%9E%E6%AD%A3%E5%BC%8F%E7%94%A8%E4%BE%8B2.png?raw=true)
 
-活动图
-![](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E6%B4%BB%E5%8A%A82.png?raw=true)
+![活动图](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E6%B4%BB%E5%8A%A82.png?raw=true)
 
 Use case 4 任务者提交任务
 
@@ -58,8 +52,6 @@ Use case 4 任务者提交任务
 发布者对任务完成的情况不满意，积分和酬劳不予发放；
 其他任务者先于提交任务并确认。
 
-用例图
-![](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E9%9D%9E%E6%AD%A3%E5%BC%8F%E7%94%A8%E4%BE%8B3.png?raw=true)
+![用例图](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E9%9D%9E%E6%AD%A3%E5%BC%8F%E7%94%A8%E4%BE%8B3.png?raw=true)
 
-活动图
-![](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E6%B4%BB%E5%8A%A83.png?raw=true)
+![活动图](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/images/%E6%B4%BB%E5%8A%A83.png?raw=true)
