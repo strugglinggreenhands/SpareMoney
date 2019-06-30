@@ -52,7 +52,7 @@
 - [15352307-title](https://blog.csdn.net/weixin_41968313/article/details/93845454)
 - [16340184-title](https://github.com/AaronCyril/AaronCyril.github.io/blob/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90/Final%20Report.md)
 - [16340104-挣闲钱项目个人报告总结](https://blog.csdn.net/xiana131123/article/details/94363548)
-- [16340262-title](https://blog.csdn.net/weixin_37802228/article/details/94354798)
+- [16340262-挣闲钱项目个人报告总结](https://blog.csdn.net/weixin_37802228/article/details/94354798)
 - [16340254-xjk](https://blog.csdn.net/qq_36326478/article/details/94180713)
 - [16340223-wsc](https://github.com/wsc16340223/SWSAD/blob/master/final/PersonalReport.md)
 
