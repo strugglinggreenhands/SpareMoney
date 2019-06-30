@@ -25,19 +25,17 @@
 - 7.4 [Usecase design（用例设计）](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/Design/UsecaseDesign.md)
 
 ### 8、生产规范与指南 
-- 8.1 XX 代码规范
+- 8.1 代码规范
 - 8.2 REST API 设计规范
 - 8.3 架构设计、详细设计（BCE方法）到应用程序框架映射指南
 - 8.4 部署说明
 
 ### 9、成品展示 
-- 9.1 XX短视频
-- 9.2 XX短视频
 
 [系统目录规范](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/%E7%B3%BB%E7%BB%9F%E7%9B%AE%E5%BD%95%E8%A7%84%E8%8C%83.md)
 
 ### X1 meeting-records 会议记录 
-- [inception meeting (yy/mm/dd)](https://github.com/strugglinggreenhands/SpareMoney_Documents/tree/gh-pages/Meeting)
+- [inception meeting ](https://github.com/strugglinggreenhands/SpareMoney_Documents/tree/gh-pages/Meeting)
 
 ### X2 [KANBAN](https://github.com/strugglinggreenhands/SpareMoney_Documents/projects)
 
@@ -48,17 +46,12 @@
 
 ### X4 Tech/Work Report 
 - [16340251-Project Report](https://github.com/Jellicex/Orange_swsad.github.io/blob/master/Project_Report.md)
-- [16340263-title](https://blog.csdn.net/xhc08180312/article/details/94344911)
-- [15352307-title](https://blog.csdn.net/weixin_41968313/article/details/93845454)
-- [16340184-title](https://github.com/AaronCyril/AaronCyril.github.io/blob/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90/Final%20Report.md)
+- [16340263](https://blog.csdn.net/xhc08180312/article/details/94344911)
+- [15352307](https://blog.csdn.net/weixin_41968313/article/details/93845454)
+- [16340184](https://github.com/AaronCyril/AaronCyril.github.io/blob/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90/Final%20Report.md)
 - [16340104-挣闲钱项目个人报告总结](https://blog.csdn.net/xiana131123/article/details/94363548)
 - [16340262-挣闲钱项目个人报告总结](https://blog.csdn.net/weixin_37802228/article/details/94354798)
 - [16340254-xjk](https://blog.csdn.net/qq_36326478/article/details/94180713)
 - [16340223-wsc](https://github.com/wsc16340223/SWSAD/blob/master/final/PersonalReport.md)
 
-### X5 Final Report 
-
-
-下面这两行到时候去掉：
- 学号-title
- 小组分工与贡献率说明
+[小组分工与贡献率说明](https://github.com/strugglinggreenhands/SpareMoney_Documents/blob/gh-pages/小组分工与贡献率.md) 
